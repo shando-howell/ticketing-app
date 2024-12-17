@@ -1,2 +1,2 @@
-Ticketing application with Next.js client and Node.js (Express) server.
+Ticketing application with a Next.js client and a Node.js (Express) server.
 The server architecture is a microservices architecture.
